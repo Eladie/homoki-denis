@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/homoki-denis/homoki-denis/blob/main/background.png)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://images.unsplash.com/photo-1521292270410-a8c4d716d518?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Denis, a future Front-End developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/> <b>Arad, Romania</b>.</p>
 
